@@ -1,1 +1,1 @@
-# Data-Analyst---Mini-projects-
+A collection of mini projects in Data Science 📊 using Python, Pandas, NumPy, Matplotlib, and Seaborn. Each project focuses on real-world datasets and covers data cleaning, exploratory data analysis (EDA), and visualization to extract meaningful insights.
