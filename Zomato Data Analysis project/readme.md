@@ -39,8 +39,6 @@ The dataset contains:
 - Price range
 - Approximate cost for two people
 
-**Note:** Dataset can be downloaded from [Dataset Link](YOUR-DATASET-LINK-HERE).
-
 ---
 
 ## Steps in Implementation
